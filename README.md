@@ -3,4 +3,4 @@
 
                 meow <3
 
-<img src="linnea_me_20261031210408.png" width="50%">
+<img src="linnea_me_20261031210408.png" width="80%">

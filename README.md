@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=will+you+be+mine?;if+so,+why?)](https://git.io/typing-svg)
+
 <img src="linnea_me_20261031211916.png" width="100%">
 
                 meow <3
